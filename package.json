@@ -1,0 +1,23 @@
+{
+  "name": "hyf-cli-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesobi/HYF-node-cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesobi/HYF-node-cli/issues"
+  },
+  "homepage": "https://github.com/wesobi/HYF-node-cli#readme"
+}
